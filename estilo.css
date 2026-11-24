@@ -1,0 +1,13 @@
+body{background-color: aqua;
+font-family: 'Courier New', Courier, monospace;
+text-align: justify;
+margin:auto;
+padding:0%}
+h1{font-family: 'Courier New', Courier, monospace}
+.imagen-bandera{min-width: 250px;width: 60%;}
+ul{background-color: antiquewhite;}
+h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: azure;}
+p{background-color: bisque;}
+.imagen-montañas{min-width: auto;width: 50%;}
+.new-york{min-width: max-content;width: 0%;}
+h3{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: black;}
